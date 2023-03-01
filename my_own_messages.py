@@ -64,7 +64,6 @@ print('Oleksii Kaba' '\n' 'Ukraine' '\n' 'Chernivtsi' '\n' '58004' '\n' 'Center'
 
 print('{meters} {inches} {ft} {miles} {yards}'.format(meters='1m = ',inches='39.37 inch,', ft = '3.28 ft,', yards='0.91 yards', miles ='1609.34 metres in on mile,'))
 
-
 # days = 7
 # hours = 168
 # minutes = 10.080
